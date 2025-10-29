@@ -1,0 +1,35 @@
+.news-card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.news-card h3 {
+  margin-bottom: 15px;
+}
+
+.news-card article {
+  padding: 12px;
+  border-bottom: 1px solid #eee;
+}
+
+.news-card article:last-child {
+  border-bottom: none;
+}
+
+.breaking-news {
+  background: #ffeaea;
+  border-left: 4px solid red;
+  border-radius: 6px;
+}
+
+.breaking-label {
+  background: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  display: inline-block;
+  margin-bottom: 5px;
+}

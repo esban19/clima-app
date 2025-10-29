@@ -1,0 +1,26 @@
+footer {
+  background: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+  margin-top: 20px;
+  border-top: 1px solid #ddd;
+}
+
+footer div {
+  flex: 1 1 200px;
+  margin: 10px;
+}
+
+footer h4 {
+  margin-bottom: 10px;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li {
+  margin-bottom: 6px;
+}
